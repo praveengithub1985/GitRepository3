@@ -6,11 +6,6 @@ abstract class SuperClass
 	void disp()
 	{
 		System.out.println("This is a Concrete Method in the super class");
-<<<<<<< HEAD
-		//This is a new comment added in Workspace
-=======
-		//This is a new comment added in GitHub
->>>>>>> branch 'master' of https://github.com/praveengithub1985/GitRepository3.git
 	}
 }
 
